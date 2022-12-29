@@ -20,3 +20,8 @@ webometrics calculation and targets
 ## majestic
 
 ![image](https://user-images.githubusercontent.com/11188109/209942337-3db4c76c-790e-414e-b90e-7b34e0413774.png)
+
+## serpapi
+
+![image](https://user-images.githubusercontent.com/11188109/209942879-06950f03-0bb8-4a39-aca6-a843d84b5bd0.png)
+
