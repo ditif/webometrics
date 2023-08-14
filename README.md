@@ -23,11 +23,11 @@ Peringkat Nasional
 
 Dalam melakukan proses pemeringkatan perguruan tinggi, Webometric memilki metode tersendiri sebagai berikut
 
-| INDICATORS	| MEANING	| METHODOLOGY	| SOURCE	| WEIGHT|
-| ----------- | ----------- | ----------- | ----------- | ----------- |
+| INDICATORS	| MEANING	| METHODOLOGY	| SOURCE	| WEIGHT| ULBI RANK |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | PRESENCE |	Public knowledge shared	| DISCONTINUED | | |
-| VISIBILITY	| Web contents Impact	| Number of external networks (subnets) linking to the institution's webpages (normalized and then the maximum value is chosen) |	[Ahrefs & Majestic](https://www.matthewwoodward.co.uk/seo/tools/ahrefs-vs-majestic/)	| 50% |
-| TRANSPARENCY(or OPENNESS)	| Top cited researchers	| Number of citations from Top 310 authors (excluding the top 20 outliers) See [Transparent Ranking](https://www.webometrics.info/en/transparent) for additional info |	 Google Scholar Profiles |	10% |
+| VISIBILITY	| Web contents Impact	| Number of external networks (subnets) linking to the institution's webpages (normalized and then the maximum value is chosen) |	[Ahrefs & Majestic](https://www.matthewwoodward.co.uk/seo/tools/ahrefs-vs-majestic/)	| 50% | 611 |
+| TRANSPARENCY(or OPENNESS)	| Top cited researchers	| Number of citations from Top 310 authors (excluding the top 20 outliers) See [Transparent Ranking](https://www.webometrics.info/en/transparent) for additional info |	 Google Scholar Profiles |	10% | 3248 |
 | EXCELLENCE (or SCHOLAR)	| Top cited papers	| Number of papers amongst the top 10% most cited in each one of the all 27 disciplines of the full database | Data for the five year period: 2018-2022	| Scimago	40% |
 
 ## Presence (Discontinued / Sudah Tidak dilanjutkan)
@@ -39,7 +39,8 @@ Webometrics Visibility adalah penilaian berdasarkan jumlah link yang merujuk ke 
 Tool yang digunakan tim penilai Webometrics untuk membantu proses ini adalah Ahrefs dan Majestic. Ahrefs dan Majestic ini sebenarnya adalah tool untuk control dan optimalisasi SEO. Dengan bantuan tool-tool tersebut, bisa didapatkan dampak dari konten-konten web perguruan tinggi yang dinilai. Nah dari sini kita jadi tahu, SEO sebuah web Universitas jadi sangat penting.
 
 ## Transparency / Openness – Bobot 10%
-Webometrics Transparency adalah penilaian berdasarkan jumlah kutipan profil publik. Dalam hal ini, lebih ke profil publik individu yang ada dalam institusi tersebut. Tool yang digunakan oleh tim adalah : Google Scholar Profiles.
+Webometrics Transparency adalah penilaian berdasarkan jumlah kutipan profil publik. Dalam hal ini, lebih ke profil publik individu yang ada dalam institusi tersebut. Tool yang digunakan oleh tim adalah : Google Scholar Profiles. ULBI Mendapat nilai 3248, dimana nilai ini adalah nilai terendah, artinya tidak ada sitasi yang ditemukan di Google Scholar.
+
 Perhitungan di bagian 10% ini malah lebih rumit. Pengambilan data periode ini pada minggu terakhir Juli 2023 yang lalu. Pada periode ini beberapa prosesi yang dipakai antara lain seperti yang disebutkan di https://webometrics.info/en/transparent :
 1. Gunakan nama yang standar dan sama untuk semua penulisan afiliasi pada artikel. Baik itu nama prodi dan nama Universitas. Gunakan email universitas pada artikel. Contoh : awangga@ulbi.ac.id. [Profile Google Scholar ULBI](https://scholar.google.com/citations?hl=id&view_op=list_works&gmla=AOV7GLMCc6qmCaNSr4S9frjSdsJEqIFKVl5AH2BxcxfC15XSMg3xyLR1UhUmFBT24KJxG6apa54Q_dfEkpc-fXp9BLYO2XH9cKwh&user=-ZQAW6cAAAAJ).
 2. Sitasi diambil dari TOP 310 penulis. Dengan menghilangkan pencilan sebanyak 20 profile dari urutan teratas. Sehingga data ternormalisasi(sisanya) dan baru dilakukan perhitungan.
