@@ -41,9 +41,7 @@ Webometrics Visibility adalah penilaian berdasarkan jumlah link yang merujuk ke 
 
 Tool yang digunakan tim penilai Webometrics untuk membantu proses ini adalah Ahrefs dan Majestic. Ahrefs dan Majestic ini sebenarnya adalah tool untuk control dan optimalisasi SEO. Dengan bantuan tool-tool tersebut, bisa didapatkan dampak dari konten-konten web perguruan tinggi yang dinilai. Nah dari sini kita jadi tahu, SEO sebuah web Universitas jadi sangat penting.
 
-ULBI sendiri untuk Visibility berada pada ranking 611 sudah mengalahkan ranking dari Telkom University.
-
-![image](https://github.com/ditif/webometrics/assets/11188109/030d9c2e-6b24-4bc8-9c0c-0468b912122b)
+ULBI sendiri untuk Visibility berada pada ranking 611.
 
 
 ## Transparency / Openness – Bobot 10%
