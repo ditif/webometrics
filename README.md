@@ -1,6 +1,12 @@
-# webometrics
-webometrics calculation and targets
-1. [Ahrefs vs Majestic](https://www.matthewwoodward.co.uk/seo/tools/ahrefs-vs-majestic/)
+# ULBI webometrics
+Peringkat Internasional
+
+![image](https://github.com/ditif/webometrics/assets/11188109/3a3b6c73-5119-4a8d-8b89-c8fbd97faed2)
+
+Peringkat Nasional
+
+![image](https://github.com/ditif/webometrics/assets/11188109/5c64866e-04b3-486a-9dcd-2b37b8c0519b)
+
 
 # Calculation
 
