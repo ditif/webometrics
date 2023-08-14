@@ -1,4 +1,5 @@
 # ULBI webometrics
+Hasil pemeringkatan tersebut akan dirilis Webometric dalam 2 periode yaitu pada bulan Januari dan Juli. 
 Peringkat Internasional
 
 ![image](https://github.com/ditif/webometrics/assets/11188109/3a3b6c73-5119-4a8d-8b89-c8fbd97faed2)
@@ -7,8 +8,17 @@ Peringkat Nasional
 
 ![image](https://github.com/ditif/webometrics/assets/11188109/5c64866e-04b3-486a-9dcd-2b37b8c0519b)
 
+[Keseluruhan Ranking](https://www.webometrics.info/en/Asia/Indonesia%20)
 
-# Calculation
+![image](https://github.com/ditif/webometrics/assets/11188109/4688d07f-54e8-44da-9aa8-884a112c132f)
+
+![image](https://github.com/ditif/webometrics/assets/11188109/5e4d65a7-0a87-45e3-a79c-7e724f5f5b0b)
+
+
+
+# Metode Pemeringkatan
+
+Dalam melakukan proses pemeringkatan perguruan tinggi, Webometric memilki metode tersendiri sebagai berikut
 
 | INDICATORS	| MEANING	| METHODOLOGY	| SOURCE	| WEIGHT|
 | ----------- | ----------- | ----------- | ----------- | ----------- |
