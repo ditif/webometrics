@@ -37,14 +37,15 @@ Tool yang digunakan tim penilai Webometrics untuk membantu proses ini adalah Ahr
 
 ## Transparency / Openness – Bobot 10%
 Webometrics Transparency adalah penilaian berdasarkan jumlah kutipan profil publik. Dalam hal ini, lebih ke profil publik individu yang ada dalam institusi tersebut. Tool yang digunakan oleh tim adalah : Google Scholar Profiles.
-Perhitungan di bagian 10% ini malah lebih rumit. Pada periode ini beberapa prosesi yang dipakai antara lain seperti yang disebutkan di https://webometrics.info/en/transparent :
-1. Pengambilan data periode ini pada minggu terakhir Juli 2023 yang lalu.
-2. Pemeringkatan periode ini diumumkan akhir Juli 2023
-3. Universitas yang memiliki dua atau lebih domain utama, hanya akan diambil satu yang terbaik
-4. Saat ini mulai disarankan pendaftaran Google Scholar menggunakan email berdomain institusi. Ini akan mempermudah tim penilai melakukan sorting data yang hampir jutaan jumlahnya.
-5. Periode ini tim akan mengambil 210 kutipan profil publik teratas dari setiap perguruan tinggi, dan 20 urutan teratas akan disingkirkan lebih dahulu, agar sisanya dapat terwakili dalam perhitungan. Setelah kutipan terhitung, institusi akan diberikan peringkat dengan urutan sorting menurun.
-6. Profil non individu (jurnal, departemen, group) yang ada dalam 210 hasil teratas, akan dipenalti dengan dihitung jumlah kutipan sama dengan 0.
-7. Jika profil penulis yang bukan milik institusi sengaja ditambahkan secara curang untuk meningkatkan rangking, maka institusi tersebut akan dikecualikan dalam penilaian ini.
+Perhitungan di bagian 10% ini malah lebih rumit. Pengambilan data periode ini pada minggu terakhir Juli 2023 yang lalu. Pada periode ini beberapa prosesi yang dipakai antara lain seperti yang disebutkan di https://webometrics.info/en/transparent :
+1. Gunakan nama yang standar dan sama untuk semua penulisan afiliasi pada artikel. Baik itu nama prodi dan nama Universitas. Gunakan email universitas pada artikel. Contoh : awangga@ulbi.ac.id.
+2. Pengambilan data periode ini pada minggu terakhir Juli 2023 yang lalu.
+3. Pemeringkatan periode ini diumumkan akhir Juli 2023
+4. Universitas yang memiliki dua atau lebih domain utama, hanya akan diambil satu yang terbaik
+5. Saat ini mulai disarankan pendaftaran Google Scholar menggunakan email berdomain institusi. Ini akan mempermudah tim penilai melakukan sorting data yang hampir jutaan jumlahnya.
+6. Periode ini tim akan mengambil 210 kutipan profil publik teratas dari setiap perguruan tinggi, dan 20 urutan teratas akan disingkirkan lebih dahulu, agar sisanya dapat terwakili dalam perhitungan. Setelah kutipan terhitung, institusi akan diberikan peringkat dengan urutan sorting menurun.
+7. Profil non individu (jurnal, departemen, group) yang ada dalam 210 hasil teratas, akan dipenalti dengan dihitung jumlah kutipan sama dengan 0.
+8. Jika profil penulis yang bukan milik institusi sengaja ditambahkan secara curang untuk meningkatkan rangking, maka institusi tersebut akan dikecualikan dalam penilaian ini.
 
 # Tools and Pricing
 
