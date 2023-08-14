@@ -1,4 +1,10 @@
 # ULBI webometrics
+Hal Penting Tentang Webomatrics :
+1. Webometrics, bukan merupakan pemeringkatan web. Ini pemeringkatan perguruan tinggi berdasar hal yang terpublikasi dari internet atau web.
+2. Webometrics tidak mengevaluasi web, seperti desain, estetika, popularitas/traffic ataupun jumlah kunjungan. Kualitas dan kuantitas publikasi adalah nomer satu.
+3. Webometrics adalah project penelitian, yang metodologi penilaiannya dapat berubah kapan saja, sesuai dengan temuan baru atau ketersediaan sumber.
+4. Webometrics sangat dinamis. Bisa jadi periode depan memiliki aturan, metodologi, rule, atau bahkan tool penilaian yang berbeda dalam proses pemeringkatannya.
+
 Hasil pemeringkatan tersebut akan dirilis Webometric dalam 2 periode yaitu pada bulan Januari dan Juli. 
 ULBI menduduki peringkat internasional urutan 16467 dan Nasional 812.
 
