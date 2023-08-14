@@ -45,7 +45,7 @@ Perhitungan di bagian 10% ini malah lebih rumit. Pengambilan data periode ini pa
 2. Sitasi diambil dari TOP 310 penulis. Dengan menghilangkan pencilan sebanyak 20 profile dari urutan teratas. Sehingga data ternormalisasi(sisanya) dan baru dilakukan perhitungan.
 3. Profile GS non individu (journals, departments, groups, conferences) tidak dihitung.
 4. Kecurangan pembuatan GS Profile lebih dari satu dan atau menambahkan profile orang luar yang bukan anggota afiliasi kampus akan dikeluarkan dari perangkingan.
-5. Pengambilan data terlihat hanya pada institusi dengan jumlah > 1000. Untuk 3000 institusi sisanya akan dinilai non-zero.
+5. Pengambilan data terlihat hanya pada institusi dengan jumlah sitasi > 1000. Untuk 3000 institusi sisanya akan dinilai non-zero.
 6. Universitas yang memiliki dua atau lebih domain utama, hanya akan diambil satu yang terbaik
 
 ## Excellence / Scholar (Makalah kutipan teratas) – Bobot 40%
