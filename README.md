@@ -28,7 +28,7 @@ Dalam melakukan proses pemeringkatan perguruan tinggi, Webometric memilki metode
 | PRESENCE |	Public knowledge shared	| DISCONTINUED | | |
 | VISIBILITY	| Web contents Impact	| Number of external networks (subnets) linking to the institution's webpages (normalized and then the maximum value is chosen) |	[Ahrefs & Majestic](https://www.matthewwoodward.co.uk/seo/tools/ahrefs-vs-majestic/)	| 50% | 611 |
 | TRANSPARENCY(or OPENNESS)	| Top cited researchers	| Number of citations from Top 310 authors (excluding the top 20 outliers) See [Transparent Ranking](https://www.webometrics.info/en/transparent) for additional info |	 Google Scholar Profiles |	10% | 3248 |
-| EXCELLENCE (or SCHOLAR)	| Top cited papers	| Number of papers amongst the top 10% most cited in each one of the all 27 disciplines of the full database | Data for the five year period: 2018-2022	| Scimago	40% |
+| EXCELLENCE (or SCHOLAR)	| Top cited papers	| Number of papers amongst the top 10% most cited in each one of the all 27 disciplines of the full database | Data for the five year period: 2018-2022	| Scimago	40% | 3246 |
 
 ## Presence (Discontinued / Sudah Tidak dilanjutkan)
 Webometrics Presence adalah indikator pemeringkatan dengan pola : menghitung jumlah semua halaman web suatu perguruan tinggi yang terindex oleh search engine. Dalam hal ini menggunakan Google Search Engine . Pada pemeringkatan periode bulan Juli 2021, indikator ini dinyatakan discontinued. Bobot 5% tersebut kemudian diarahkan untuk indikator lainnya.
@@ -51,6 +51,8 @@ Perhitungan di bagian 10% ini malah lebih rumit. Pengambilan data periode ini pa
 
 ## Excellence / Scholar (Makalah kutipan teratas) – Bobot 40%
 Webometrics Excellence, adalah indikator penilaian dari jumlah makalah di antara 10% teratas yang paling banyak dikutip di 27 disiplin ilmu. Data yang diambil saat ini adalah periode lima (5) tahun. Tool yang digunakan oleh tim penilai adalah : Scimago.  Scimago merupakan situs tool pemeringkatan jurnal online. Jika pada Visibilitas mengandalkan konten-konten web, maka pada Transparency dan Excellence akan mengandalkan file-file makalah, jurnal ataupun tulisan-tulisan publikasi lainnya dalam wujud format dokumen.
+
+ULBI berada di ranking 3246, dimana nilai ini adalah nilai terendah, artinya tidak ada sitasi yang ditemukan di ScimagoJR.
 
 # Tools and Pricing
 
