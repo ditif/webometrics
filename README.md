@@ -45,6 +45,9 @@ Perhitungan di bagian 10% ini malah lebih rumit. Pengambilan data periode ini pa
 5. Pengambilan data terlihat hanya pada institusi dengan jumlah > 1000. Untuk 3000 institusi sisanya akan dinilai non-zero.
 6. Universitas yang memiliki dua atau lebih domain utama, hanya akan diambil satu yang terbaik
 
+## Excellence / Scholar (Makalah kutipan teratas) – Bobot 40%
+Webometrics Excellence, adalah indikator penilaian dari jumlah makalah di antara 10% teratas yang paling banyak dikutip di 27 disiplin ilmu. Data yang diambil saat ini adalah periode lima (5) tahun. Tool yang digunakan oleh tim penilai adalah : Scimago.  Scimago merupakan situs tool pemeringkatan jurnal online. Jika pada Visibilitas mengandalkan konten-konten web, maka pada Transparency dan Excellence akan mengandalkan file-file makalah, jurnal ataupun tulisan-tulisan publikasi lainnya dalam wujud format dokumen.
+
 # Tools and Pricing
 
 ## ahrefs.com
