@@ -27,6 +27,25 @@ Dalam melakukan proses pemeringkatan perguruan tinggi, Webometric memilki metode
 | TRANSPARENCY(or OPENNESS)	| Top cited researchers	| Number of citations from Top 310 authors (excluding the top 20 outliers) See [Transparent Ranking](https://www.webometrics.info/en/transparent) for additional info |	 Google Scholar Profiles |	10% |
 | EXCELLENCE (or SCHOLAR)	| Top cited papers	| Number of papers amongst the top 10% most cited in each one of the all 27 disciplines of the full database | Data for the five year period: 2018-2022	| Scimago	40% |
 
+## Presence (Discontinued / Sudah Tidak dilanjutkan)
+Webometrics Presence adalah indikator pemeringkatan dengan pola : menghitung jumlah semua halaman web suatu perguruan tinggi yang terindex oleh search engine. Dalam hal ini menggunakan Google Search Engine . Pada pemeringkatan periode bulan Juli 2021, indikator ini dinyatakan discontinued. Bobot 5% tersebut kemudian diarahkan untuk indikator lainnya.
+
+## Visibility. (Web Content Impact) – Bobot 50%
+Webometrics Visibility adalah penilaian berdasarkan jumlah link yang merujuk ke institusi perguruan tinggi, yang dianggap tidak berasal dari institusi itu sendiri. Yaitu yang berasal dari web lain, atau subnet/network lain. Misal: sebuah URL dari web UGM, dilink dijadikan referensi oleh sebuah web pemerintahan, atau web universitas lainnya.
+
+Tool yang digunakan tim penilai Webometrics untuk membantu proses ini adalah Ahrefs dan Majestic. Ahrefs dan Majestic ini sebenarnya adalah tool untuk control dan optimalisasi SEO. Dengan bantuan tool-tool tersebut, bisa didapatkan dampak dari konten-konten web perguruan tinggi yang dinilai. Nah dari sini kita jadi tahu, SEO sebuah web Universitas jadi sangat penting.
+
+## Transparency / Openness – Bobot 10%
+Webometrics Transparency adalah penilaian berdasarkan jumlah kutipan profil publik. Dalam hal ini, lebih ke profil publik individu yang ada dalam institusi tersebut. Tool yang digunakan oleh tim adalah : Google Scholar Profiles.
+Perhitungan di bagian 10% ini malah lebih rumit. Pada periode ini beberapa prosesi yang dipakai antara lain seperti yang disebutkan di https://webometrics.info/en/transparent :
+1. Pengambilan data periode ini sekitar tanggal 20-24 Juni 2021 yang lalu.
+2. Pemeringkatan periode ini diumumkan akhir Juli 2021
+3. Universitas yang memiliki dua atau lebih domain utama, hanya akan diambil satu yang terbaik
+4. Saat ini mulai disarankan pendaftaran Google Scholar menggunakan email berdomain institusi. Ini akan mempermudah tim penilai melakukan sorting data yang hampir jutaan jumlahnya.
+5. Periode ini tim akan mengambil 210 kutipan profil publik teratas dari setiap perguruan tinggi, dan 20 urutan teratas akan disingkirkan lebih dahulu, agar sisanya dapat terwakili dalam perhitungan. Setelah kutipan terhitung, institusi akan diberikan peringkat dengan urutan sorting menurun.
+6. Profil non individu (jurnal, departemen, group) yang ada dalam 210 hasil teratas, akan dipenalti dengan dihitung jumlah kutipan sama dengan 0.
+7. Jika profil penulis yang bukan milik institusi sengaja ditambahkan secara curang untuk meningkatkan rangking, maka institusi tersebut akan dikecualikan dalam penilaian ini.
+
 # Tools and Pricing
 
 ## ahrefs.com
