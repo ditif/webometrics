@@ -38,7 +38,7 @@ Tool yang digunakan tim penilai Webometrics untuk membantu proses ini adalah Ahr
 ## Transparency / Openness – Bobot 10%
 Webometrics Transparency adalah penilaian berdasarkan jumlah kutipan profil publik. Dalam hal ini, lebih ke profil publik individu yang ada dalam institusi tersebut. Tool yang digunakan oleh tim adalah : Google Scholar Profiles.
 Perhitungan di bagian 10% ini malah lebih rumit. Pengambilan data periode ini pada minggu terakhir Juli 2023 yang lalu. Pada periode ini beberapa prosesi yang dipakai antara lain seperti yang disebutkan di https://webometrics.info/en/transparent :
-1. Gunakan nama yang standar dan sama untuk semua penulisan afiliasi pada artikel. Baik itu nama prodi dan nama Universitas. Gunakan email universitas pada artikel. Contoh : awangga@ulbi.ac.id.
+1. Gunakan nama yang standar dan sama untuk semua penulisan afiliasi pada artikel. Baik itu nama prodi dan nama Universitas. Gunakan email universitas pada artikel. Contoh : awangga@ulbi.ac.id. [Profile Google Scholar ULBI](https://scholar.google.com/citations?hl=id&view_op=list_works&gmla=AOV7GLMCc6qmCaNSr4S9frjSdsJEqIFKVl5AH2BxcxfC15XSMg3xyLR1UhUmFBT24KJxG6apa54Q_dfEkpc-fXp9BLYO2XH9cKwh&user=-ZQAW6cAAAAJ).
 2. Pengambilan data periode ini pada minggu terakhir Juli 2023 yang lalu.
 3. Pemeringkatan periode ini diumumkan akhir Juli 2023
 4. Universitas yang memiliki dua atau lebih domain utama, hanya akan diambil satu yang terbaik
