@@ -39,13 +39,11 @@ Tool yang digunakan tim penilai Webometrics untuk membantu proses ini adalah Ahr
 Webometrics Transparency adalah penilaian berdasarkan jumlah kutipan profil publik. Dalam hal ini, lebih ke profil publik individu yang ada dalam institusi tersebut. Tool yang digunakan oleh tim adalah : Google Scholar Profiles.
 Perhitungan di bagian 10% ini malah lebih rumit. Pengambilan data periode ini pada minggu terakhir Juli 2023 yang lalu. Pada periode ini beberapa prosesi yang dipakai antara lain seperti yang disebutkan di https://webometrics.info/en/transparent :
 1. Gunakan nama yang standar dan sama untuk semua penulisan afiliasi pada artikel. Baik itu nama prodi dan nama Universitas. Gunakan email universitas pada artikel. Contoh : awangga@ulbi.ac.id. [Profile Google Scholar ULBI](https://scholar.google.com/citations?hl=id&view_op=list_works&gmla=AOV7GLMCc6qmCaNSr4S9frjSdsJEqIFKVl5AH2BxcxfC15XSMg3xyLR1UhUmFBT24KJxG6apa54Q_dfEkpc-fXp9BLYO2XH9cKwh&user=-ZQAW6cAAAAJ).
-2. Pengambilan data periode ini pada minggu terakhir Juli 2023 yang lalu.
-3. Pemeringkatan periode ini diumumkan akhir Juli 2023
-4. Universitas yang memiliki dua atau lebih domain utama, hanya akan diambil satu yang terbaik
-5. Saat ini mulai disarankan pendaftaran Google Scholar menggunakan email berdomain institusi. Ini akan mempermudah tim penilai melakukan sorting data yang hampir jutaan jumlahnya.
-6. Periode ini tim akan mengambil 210 kutipan profil publik teratas dari setiap perguruan tinggi, dan 20 urutan teratas akan disingkirkan lebih dahulu, agar sisanya dapat terwakili dalam perhitungan. Setelah kutipan terhitung, institusi akan diberikan peringkat dengan urutan sorting menurun.
-7. Profil non individu (jurnal, departemen, group) yang ada dalam 210 hasil teratas, akan dipenalti dengan dihitung jumlah kutipan sama dengan 0.
-8. Jika profil penulis yang bukan milik institusi sengaja ditambahkan secara curang untuk meningkatkan rangking, maka institusi tersebut akan dikecualikan dalam penilaian ini.
+2. Sitasi diambil dari TOP 310 penulis. Dengan menghilangkan pencilan sebanyak 20 profile dari urutan teratas. Sehingga data ternormalisasi(sisanya) dan baru dilakukan perhitungan.
+3. Profile GS non individu (journals, departments, groups, conferences) tidak dihitung.
+4. Kecurangan pembuatan GS Profile lebih dari satu dan atau menambahkan profile orang luar yang bukan anggota afiliasi kampus akan dikeluarkan dari perangkingan.
+5. Pengambilan data terlihat hanya pada institusi dengan jumlah > 1000. Untuk 3000 institusi sisanya akan dinilai non-zero.
+6. Universitas yang memiliki dua atau lebih domain utama, hanya akan diambil satu yang terbaik
 
 # Tools and Pricing
 
