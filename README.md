@@ -14,12 +14,9 @@ Peringkat Nasional
 
 ![image](https://github.com/ditif/webometrics/assets/11188109/5c64866e-04b3-486a-9dcd-2b37b8c0519b)
 
-[Keseluruhan Ranking](https://www.webometrics.info/en/Asia/Indonesia%20)
+[Lihat Keseluruhan Ranking](https://www.webometrics.info/en/Asia/Indonesia%20)
 
 ![image](https://github.com/ditif/webometrics/assets/11188109/4688d07f-54e8-44da-9aa8-884a112c132f)
-
-![image](https://github.com/ditif/webometrics/assets/11188109/5e4d65a7-0a87-45e3-a79c-7e724f5f5b0b)
-
 
 
 # Metode Pemeringkatan
