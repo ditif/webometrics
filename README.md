@@ -1,6 +1,6 @@
 # ULBI webometrics
 Hasil pemeringkatan tersebut akan dirilis Webometric dalam 2 periode yaitu pada bulan Januari dan Juli. 
-Peringkat Internasional
+ULBI menduduki peringkat internasional urutan 16467 dan Nasional 812.
 
 ![image](https://github.com/ditif/webometrics/assets/11188109/3a3b6c73-5119-4a8d-8b89-c8fbd97faed2)
 
