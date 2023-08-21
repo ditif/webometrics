@@ -16,7 +16,7 @@ Ditempatkan pada bagian dari laman mitra. Logo bisa di klik mengarahkan ke situs
 
 Contoh : 
 
-[![Universitas Logistik dan Bisnis Internasional](logo_wide_ulbi.png 'Universitas Logistik dan Bisnis Internasional')](https://www.ulbi.ac.id/)
+[![Universitas Logistik dan Bisnis Internasional](ulbi.png 'Universitas Logistik dan Bisnis Internasional')](https://www.ulbi.ac.id/)
 
 Berbagai logo ULBI bisa diunduh [di sini](https://github.com/ditif/webometrics/tree/main/logo)
 
