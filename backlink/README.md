@@ -18,5 +18,6 @@ Contoh :
 
 [![A mushroom-head robot](../logo/logo%20PP%20ULBI.png 'Codey the Codecademy mascot')](https://www.ulbi.ac.id/)
 
+Berbagai logo ULBI bisa diunduh [di sini](https://github.com/ditif/webometrics/tree/main/logo)
 
 Jika ada opsi tambahan maka sertakan opsi : do follow
