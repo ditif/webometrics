@@ -18,6 +18,8 @@ Contoh :
 
 [![Universitas Logistik dan Bisnis Internasional](ulbi.png 'Universitas Logistik dan Bisnis Internasional')](https://www.ulbi.ac.id/)
 
-Berbagai logo ULBI bisa diunduh [di sini](https://github.com/ditif/webometrics/tree/main/logo)
+Berbagai logo ULBI bisa diunduh di :
+1. [Opsi Laman Web](https://home.ulbi.ac.id/webometrics/logo/)
+2. [Opsi Repo](https://github.com/ditif/webometrics/tree/main/logo)
 
 Jika ada opsi tambahan maka sertakan opsi : do follow
