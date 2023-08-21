@@ -10,7 +10,7 @@ Contoh : [Universitas Logistik dan Bisnis Internasional](https://www.ulbi.ac.id/
 
 Jika ada opsi tambahan maka sertakan opsi : do follow
 
-## Backlink Logo
+## Backlink Gambar
 
 Ditempatkan pada bagian dari laman mitra. Logo bisa di klik mengarahkan ke situs ULBI
 
