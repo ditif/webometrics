@@ -14,6 +14,9 @@ Jika ada opsi tambahan maka sertakan opsi : do follow
 
 Ditempatkan pada bagian dari laman mitra. Logo bisa di klik mengarahkan ke situs ULBI
 
-Contoh : ![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
+Contoh : 
+
+[![A mushroom-head robot](../logo/logo%20PP%20ULBI.png 'Codey the Codecademy mascot')](https://www.ulbi.ac.id/)
+
 
 Jika ada opsi tambahan maka sertakan opsi : do follow
