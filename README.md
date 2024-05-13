@@ -10,10 +10,10 @@ ULBI menduduki peringkat internasional urutan 16467 dan Nasional 812.
 
 ![image](https://github.com/ditif/webometrics/assets/11188109/3a3b6c73-5119-4a8d-8b89-c8fbd97faed2)
 
-Peringkat Nasional
-Juni 2023
+Peringkat Nasional  
+Juni 2023  
 ![image](https://github.com/ditif/webometrics/assets/11188109/5c64866e-04b3-486a-9dcd-2b37b8c0519b)  
-Jan 2024
+Jan 2024  
 ![image](https://github.com/ditif/webometrics/assets/11188109/9faab926-e221-48b9-9d02-19e8c33d568d)  
 
 [Lihat Keseluruhan Ranking](https://www.webometrics.info/en/Asia/Indonesia%20)
