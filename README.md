@@ -8,14 +8,13 @@ Hal Penting Tentang Webomatrics :
 Hasil pemeringkatan tersebut akan dirilis Webometric dalam 2 periode yaitu pada bulan Januari dan Juli. 
 ULBI menduduki peringkat internasional urutan 16467 dan Nasional 812.
 
-![image](https://github.com/ditif/webometrics/assets/11188109/3a3b6c73-5119-4a8d-8b89-c8fbd97faed2)
+![image](https://github.com/ditif/webometrics/assets/11188109/3a3b6c73-5119-4a8d-8b89-c8fbd97faed2)  
+[Lihat Keseluruhan Ranking](https://www.webometrics.info/en/Asia/Indonesia%20)  
 
 ## Peringkat Nasional  
 ### Juni 2023  
 ![image](https://github.com/ditif/webometrics/assets/11188109/5c64866e-04b3-486a-9dcd-2b37b8c0519b)  
 Data yang masuk menjadi ULBI hanya poltekpos, sementara STIMLOG masih terpisah institusi sendiri.
-[Lihat Keseluruhan Ranking](https://www.webometrics.info/en/Asia/Indonesia%20)  
-
 ![image](https://github.com/ditif/webometrics/assets/11188109/4688d07f-54e8-44da-9aa8-884a112c132f)  
 
 ### Jan 2024  
