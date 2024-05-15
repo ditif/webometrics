@@ -19,7 +19,9 @@ Data yang masuk menjadi ULBI hanya poltekpos, sementara STIMLOG masih terpisah i
 ![image](https://github.com/ditif/webometrics/assets/11188109/4688d07f-54e8-44da-9aa8-884a112c132f)  
 
 ### Jan 2024  
-![image](https://github.com/ditif/webometrics/assets/11188109/9faab926-e221-48b9-9d02-19e8c33d568d)  
+![image](https://github.com/ditif/webometrics/assets/11188109/2f67a1a6-cb5c-41f8-a82c-a8e3d7b37d2d)  
+
+![image](https://github.com/ditif/webometrics/assets/11188109/3fc5b170-a383-4df6-84c8-c96a5f8390f5)  
 untuk tahun 2024 menurun karena Stimlog masuk ke data ulbi. Turun dikarenakan pada juni 2023 poltekpos saja yang masuk hitungan Stimlog terpisah.
 Dalam sinta Stimlog yang sekarang fltb sangat minim sekali publikasinya
 
