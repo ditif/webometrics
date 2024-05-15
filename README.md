@@ -14,14 +14,16 @@ ULBI menduduki peringkat internasional urutan 16467 dan Nasional 812.
 ### Juni 2023  
 ![image](https://github.com/ditif/webometrics/assets/11188109/5c64866e-04b3-486a-9dcd-2b37b8c0519b)  
 Data yang masuk menjadi ULBI hanya poltekpos, sementara STIMLOG masih terpisah institusi sendiri.
+[Lihat Keseluruhan Ranking](https://www.webometrics.info/en/Asia/Indonesia%20)  
+
+![image](https://github.com/ditif/webometrics/assets/11188109/4688d07f-54e8-44da-9aa8-884a112c132f)  
+
 ### Jan 2024  
 ![image](https://github.com/ditif/webometrics/assets/11188109/9faab926-e221-48b9-9d02-19e8c33d568d)  
 untuk tahun 2024 menurun karena Stimlog masuk ke data ulbi. Turun dikarenakan pada juni 2023 poltekpos saja yang masuk hitungan Stimlog terpisah.
 Dalam sinta Stimlog yang sekarang fltb sangat minim sekali publikasinya
 
-[Lihat Keseluruhan Ranking](https://www.webometrics.info/en/Asia/Indonesia%20)
 
-![image](https://github.com/ditif/webometrics/assets/11188109/4688d07f-54e8-44da-9aa8-884a112c132f)
 
 
 # Metode Pemeringkatan
